@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+[[mods]]
+modId="fps_mod"
+version="1.0.0"
+displayName="Fps counter mod"
+authors="Axiles"
+description="It's my 1 mod on view fps counter"
