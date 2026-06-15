@@ -1,4 +1,14 @@
 {
-  "latest_version": "1.0.1",
-  "changelog": "Fixed FPS counter flickering"
+  "homepage": "https://github.com/Axiles/GuiRender",
+  "promos": {
+    "1.16.5-latest": "1.0.1",
+    "1.16.5-recommended": "1.0.0"
+  },
+  "1.0.1": {
+    "changes": [
+      "Исправлено мерцание FPS счетчика",
+      "Добавлен отображение пинга"
+    ],
+    "comment": "Обязательное поле для каждой версии!"
+  }
 }
